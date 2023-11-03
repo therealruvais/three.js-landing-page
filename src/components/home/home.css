@@ -1,0 +1,27 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.head{
+    flex: 1;
+    height: 91vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head h1{
+    margin: 15px;
+}
+.head p{
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.three{
+    flex: 1;
+    
+}
+
